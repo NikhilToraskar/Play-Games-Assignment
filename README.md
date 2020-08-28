@@ -8,4 +8,4 @@ Assignment for Play Games 24X7
 - Used SCSS for design.
 - Used custom HTML for design.
 - No framework used for the development.
-- Responsive pages.
+- Responsive webpage.
