@@ -548,7 +548,7 @@ table {
                                     @include bp(phablet) {
                                         @include font-size(30px);
                                     }
-                                    @include bp(phablet) {
+                                    @include bp(mobile) {
                                         @include font-size(20px);
                                     }
                                 }

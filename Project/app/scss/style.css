@@ -911,7 +911,7 @@ table {
   }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 575px) {
   .bounded-popup .popup .inner-popup .popup-right .inner-right .bounded-form form .form-row .rupee {
     font-size: 20px;
     font-size: 1.25rem;
